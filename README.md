@@ -2,7 +2,7 @@
 
 模板方法是什么鬼？模板模式又是什么鬼？😩 听说它很复杂，听说它很难，我可不可以不学啊😭。刷了一会儿微博，这几天杨洋的新电影《三生三世十里桃花》上映了，不行，我要去看，虽然闺蜜说不好看，但是，去看杨洋也是可以的，嘻嘻嘻。 嗯，模板模式应该是跟杨洋一样帅，所以带着这份爱慕，我们一起来看看它到底有没有比杨洋还要帅！！
 
-![](https://github.com/wuyuanlijie/Singleton_Pattern/blob/master/single3.gif)
+![](https://github.com/carolineLH/Template-Method/blob/master/1.jpg)
 
 ## 模板方法模式是什么？
 模板方法模式是一种只需使用继承就可以实现的非常简单的模式。这是它的一种定义，简单吗？不觉得。😔  
@@ -47,6 +47,7 @@ coffee.init();
 
 ##### 我想喝茶吖，想喝茶。不急，不急，我们再来泡茶哈！
 
+![](https://github.com/carolineLH/Template-Method/blob/master/3.jpg)
 ## 泡一壶茶啦！
 其实呢，泡茶的步骤跟泡咖啡的步骤相差不大，大致是这样的：<br>
 1.把水煮沸；<br>
@@ -198,6 +199,7 @@ js 把抽象类改为配置类，param将成为Beverage函数里面的闭包函�
 
 哇，到这里帅哥就看完啦，是不是很帅，是不是很有意思，不行，我要去看我的杨洋了，抛弃我的杨洋。😄<br>
 
+![](https://github.com/carolineLH/Template-Method/blob/master/2.jpg)
 
 有建议或者觉得有错误的地方可以指出来哟，帅哥要分享，学习也要分享的。共同进步吧！😘
 
