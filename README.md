@@ -199,6 +199,7 @@ js 把抽象类改为配置类，param将成为Beverage函数里面的闭包函�
 
 哇，到这里帅哥就看完啦，是不是很帅，是不是很有意思，不行，我要去看我的杨洋了，抛弃我的杨洋。😄<br>
 
+![](https://github.com/carolineLH/Template-Method/blob/master/2.jpg)
 
 有建议或者觉得有错误的地方可以指出来哟，帅哥要分享，学习也要分享的。共同进步吧！😘
 
